@@ -1,6 +1,6 @@
 {
-  "name": "youtube_clone_app",
   "homepage": "https://ManishRajputCode.github.io/youtubeclone",
+  "name": "youtube_clone_app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
